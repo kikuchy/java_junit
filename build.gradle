@@ -26,5 +26,5 @@ dependencies {
 }
 
 wrapper {
-    gradleVersion = "2.1"
+    gradleVersion = "2.11"
 }
