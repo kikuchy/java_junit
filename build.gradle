@@ -12,7 +12,7 @@ project.ext {
 }
 version = '1.0-SNAPSHOT'
 
-sourceCompatibility = targetCompatibility = 1.7
+sourceCompatibility = targetCompatibility = 1.8
 
 tasks.withType(AbstractCompile) each { it.options.encoding = 'UTF-8' }
 
